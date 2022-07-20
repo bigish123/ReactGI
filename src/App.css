@@ -1,0 +1,24 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.people{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  background-color:lightblue;
+  border-style: dashed;
+  border-radius: 50px;
+  padding: 20px;
+  margin-bottom:30px;
+  margin-left: 20%;
+  margin-top: 5%;
+}
+
+
+
